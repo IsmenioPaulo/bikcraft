@@ -44,7 +44,7 @@
   text-transform: uppercase;
 }
 
-.font-1-xl {
+.font-1-xl {  /*h3*/
   font: 600 2rem/1.25 "Poppins", sans-serif;
 }
 
