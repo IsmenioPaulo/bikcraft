@@ -18,10 +18,18 @@
 
 /* seguros*/
 @import "./seguros/seguros.css";
+@import "./seguros/vantagens.css";
+@import "./seguros/perguntas.css";
 
 /* Footer */
 @import "./global/footer.css";
 
+/* Termos */
+@import "./termos/termos.css";
+
+
+/* Bicicletas */
+@import "./bicicletas/bicicletas.css";
 
 
 
