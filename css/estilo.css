@@ -1,10 +1,13 @@
 @import "./global/global.css";
 @import "./utilidades/tipografia.css";
 @import "./utilidades/cores.css";
+@import "./utilidades/animacao.css";
+
 @import "./global/header.css";
 
-/*Componentes*/
+/* Utilidades */
 @import "./utilidades/componentes.css";
+@import "./utilidades/formulario.css";
 
 /* HOME */
 @import "./home/introducao.css";
@@ -33,5 +36,12 @@
 
 /* Bicicleta */
 @import "./bicicleta/bicicleta.css";
+@import "./bicicleta/seguro.css";
+
+/* Contato */
+@import "./contato/contato.css";
+@import "./contato/lojas/lojas.css";
 
 
+/* Contato */
+@import "./orcamento/orcamento.css";
